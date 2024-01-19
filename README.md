@@ -1,3 +1,14 @@
+Um pouco sobre mim...
+
+Meu nome é Fernanda, natural de Joaçaba/SC. Vim ao mundo em 06 de novembro de 1995.
+
+Iniciei minha carreira de trabalho como secretária na Unoesc em 2014 e por lá tive muito contato com professores, alunos de diversas Engenharias.
+Decidi cursar Engenharia de Computação em 2018, inspirada pelos meus gostos por jogos e por gostar muito de computador. 
+Realizei um estágio não obrigatório no período de 12/2020 a 12/2021 na Inovadora Sistemas, empresa na qual trabalha com sistemas do ramo hospitalar. Lá aprendi um pouco sobre JavaScript, Sqlite, Flutter, Dart e até mesmo um pouco de PHP.
+Em 04/2023 voltei a trabalhar na Unoesc, mas como Programadora de Sistemas, com o objetivo de resolver problemas, fazer novas implementações no sistema próprio da universidade para a gestão acadêmica e financeira. Aqui sigo desde então aprimorando minhas habilidades com Java 8 e 11, Spring Boot, JavaScript, Rabbit, banco de dados Oracle, entre outras. 
+
+Conclui o ensino superior em 2023. Em 2024 sigo trabalhando como Programadora de Sistemas na Universidade na qual me graduei :D
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernanda-ferrari-7a2575222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernanda-ferrari-7a2575222" height="30" width="40" /></a>
